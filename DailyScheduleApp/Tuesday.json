@@ -1,0 +1,60 @@
+{
+  "schedule": [
+    {
+      "time": "7:00 - 8:00 AM",
+      "activity": "Dutch Language Study"
+    },
+    {
+      "time": "8:00 - 9:00 AM",
+      "activity": "Gym Workout"
+    },
+    {
+      "time": "9:00 - 9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "time": "9:30 - 12:00 PM",
+      "activity": "Focused Study - Primary Skill (C#/.NET)"
+    },
+    {
+      "time": "12:00 - 12:30 PM",
+      "activity": "Snack Break"
+    },
+    {
+      "time": "12:30 - 2:30 PM",
+      "activity": "Secondary Skill Study - Python"
+    },
+    {
+      "time": "2:30 - 3:00 PM",
+      "activity": "Lunch"
+    },
+    {
+      "time": "3:00 - 4:30 PM",
+      "activity": "Project Work"
+    },
+    {
+      "time": "4:30 - 5:30 PM",
+      "activity": "Relaxation"
+    },
+    {
+      "time": "5:30 - 6:30 PM",
+      "activity": "Self-Review and Practice"
+    },
+    {
+      "time": "6:30 - 7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "time": "7:00 - 9:00 PM",
+      "activity": "Study or Relaxation"
+    },
+    {
+      "time": "9:00 - 10:00 PM",
+      "activity": "Wind-down time"
+    }
+  ],
+  "tips": [
+    "Practice Dutch speaking for 10 minutes.",
+    "Try to complete a coding challenge."
+  ]
+}

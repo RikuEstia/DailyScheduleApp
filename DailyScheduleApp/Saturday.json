@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "time": "7:00 - 8:00 AM",
+      "activity": "Dutch Language Study"
+    },
+    {
+      "time": "8:00 - 9:00 AM",
+      "activity": "Gym Workout"
+    },
+    {
+      "time": "9:00 AM - 12:00 PM",
+      "activity": "Focused Skill Study - React or C#/.NET"
+    },
+    {
+      "time": "Afternoon",
+      "activity": "Project work or coding challenges"
+    },
+    {
+      "time": "Evening",
+      "activity": "Relaxation or additional streaming"
+    }
+  ],
+  "tips": [
+    "Spend time reviewing Dutch grammar.",
+    "Work on project documentation."
+  ]
+}

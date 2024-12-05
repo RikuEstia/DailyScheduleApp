@@ -1,0 +1,22 @@
+﻿<Application x:Class="DailyScheduleApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- Twitch Color Palette -->
+            <Color x:Key="PrimaryPurple">#9146FF</Color>
+            <Color x:Key="BackgroundDark">#0E0E10</Color>
+            <Color x:Key="SecondaryDark">#18181B</Color>
+            <Color x:Key="TextLight">#FFFFFF</Color>
+            <Color x:Key="AccentLightGray">#B9A3E3</Color>
+
+            <!-- Brushes -->
+            <SolidColorBrush x:Key="Brush.PrimaryPurple" Color="{StaticResource PrimaryPurple}"/>
+            <SolidColorBrush x:Key="Brush.BackgroundDark" Color="{StaticResource BackgroundDark}"/>
+            <SolidColorBrush x:Key="Brush.SecondaryDark" Color="{StaticResource SecondaryDark}"/>
+            <SolidColorBrush x:Key="Brush.TextLight" Color="{StaticResource TextLight}"/>
+            <SolidColorBrush x:Key="Brush.AccentLightGray" Color="{StaticResource AccentLightGray}"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

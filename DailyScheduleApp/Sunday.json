@@ -1,0 +1,21 @@
+{
+  "schedule": [
+    {
+      "time": "Morning",
+      "activity": "Light stretching, optional gym session, or rest"
+    },
+    {
+      "time": "Afternoon",
+      "activity": "Weekly review, self-assessment, light Dutch review, or algorithms practice"
+    },
+    {
+      "time": "Evening",
+      "activity": "Free time for gaming, social activities, and preparing for the week ahead"
+    }
+  ],
+  "tips": [
+    "Reflect on progress made this week and set goals for the upcoming week.",
+    "Dedicate a few minutes to Dutch review, focusing on vocabulary retention.",
+    "Ensure your workspace and schedule are ready for a productive week."
+  ]
+}

@@ -1,0 +1,21 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Button Styles -->
+    <Style TargetType="Button">
+        <Setter Property="Background" Value="{StaticResource Brush.Primary}"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="Padding" Value="8,4"/>
+        <Setter Property="Margin" Value="4"/>
+        <Setter Property="BorderThickness" Value="0"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+
+    <!-- DataGrid Styles -->
+    <Style TargetType="DataGrid">
+        <Setter Property="Background" Value="{StaticResource Brush.Background}"/>
+        <Setter Property="Foreground" Value="{StaticResource Brush.TextPrimary}"/>
+        <Setter Property="RowBackground" Value="{StaticResource Brush.Primary}"/>
+        <Setter Property="AlternatingRowBackground" Value="{StaticResource Brush.Background}"/>
+    </Style>
+</ResourceDictionary>
